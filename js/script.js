@@ -107,7 +107,7 @@ function Even(ch)
 
 function EvenWithout0(ch)
 {
-	var evenWithout0 = "02468"; 
+	var evenWithout0 = "2468"; 
 	
 	if (find(evenWithout0, ch))
 		return true;
